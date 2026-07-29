@@ -11,7 +11,7 @@ compatibility_flags = [ "nodejs_compat" ]
 UUID = " "
 
 # Fallback Proxy IP
-PROXYIP = "cdn-all.xn--b6gac.eu.org"
+PROXYIP = "iceisland.cloudflareaccess.com"
 
 # သင့် GitHub Repository ပေါ်က PROXYIP.txt ရဲ့ Raw Link ကို ပြင်ဆင်ပါ
 PROXY_LIST_URL = "https://raw.githubusercontent.com/gprox-galaxy/Gproxy-domaip/refs/heads/main/PROXYIP.txt"
