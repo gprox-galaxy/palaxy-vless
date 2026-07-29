@@ -14,7 +14,7 @@ UUID = " "
 PROXYIP = "cdn-all.xn--b6gac.eu.org"
 
 # သင့် GitHub Repository ပေါ်က PROXYIP.txt ရဲ့ Raw Link ကို ပြင်ဆင်ပါ
-PROXY_LIST_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/PROXYIP.txt"
+PROXY_LIST_URL = "https://raw.githubusercontent.com/gprox-galaxy/Gproxy-domaip/refs/heads/main/PROXYIP.txt"
 
 # DoH DNS Resolver
 DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
