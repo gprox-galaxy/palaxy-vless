@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 // ENV VARIABLES (Set in Cloudflare Dashboard)
 // ============================================
 var userID = "";                    // REQUIRED: Set UUID env variable
-var proxyIP = "cdn-all.xn--b6gac.eu.org";      // Fallback ProxyIP
+var proxyIP = "galaxy-tunnel-01.cloudflareaccess.com";      // Fallback ProxyIP
 
 // 🔗 သင့် GitHub ပေါ်က PROXYIP.txt ရဲ့ Raw Link ကို ဒီနေရာမှာ ထည့်ပါ
 var githubProxyURL = "https://raw.githubusercontent.com/gprox-galaxy/Gproxy-domaip/refs/heads/main/PROXYIP.txt";
