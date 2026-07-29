@@ -7,7 +7,7 @@ var userID = "";                    // REQUIRED: Set UUID env variable
 var proxyIP = "cdn-all.xn--b6gac.eu.org";      // Fallback ProxyIP
 
 // 🔗 သင့် GitHub ပေါ်က PROXYIP.txt ရဲ့ Raw Link ကို ဒီနေရာမှာ ထည့်ပါ
-var githubProxyURL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/PROXYIP.txt";
+var githubProxyURL = "https://raw.githubusercontent.com/gprox-galaxy/Gproxy-domaip/refs/heads/main/PROXYIP.txt";
 
 // DoH Provider URL
 var dohURL = "https://cloudflare-dns.com/dns-query";
