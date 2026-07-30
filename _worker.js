@@ -10,7 +10,7 @@ var proxyIP = "cdn-b100.xn--b6gac.eu.org";      // Fallback ProxyIP
 var githubProxyURL = "https://raw.githubusercontent.com/gprox-galaxy/Gproxy-domaip/refs/heads/main/PROXYIP.txt";
 
 // DoH Provider URL
-var dohURL = "https://cloudflare-dns.com/dns-query";
+var dohURL = "https://e538jrjizj.cloudflare-gateway.com/dns-query";
 
 function isValidUUID(uuid) {
     const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
